@@ -1,0 +1,41 @@
+p,table,li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10pt;
+}
+
+p{word-spacing:5px;}
+
+p,li,td{
+    font-size: 75%;
+}
+
+td{padding: 0.5cm;}
+
+th{
+    text-align: center;
+    font-size: 85%;
+}
+
+h1,h2,hr{
+    color: black;
+}
+
+table{
+    border-style: outset;
+    background-color: chartreuse;
+}
+
+li{
+    list-style-type: lower-roman;
+}
+
+span{
+    color: blue;
+    background-color: darkcyan;
+    font-size: 29pt;
+    font-style: italic;
+    font-weight: bold;
+}
+body{
+    background-color: aqua;
+}
